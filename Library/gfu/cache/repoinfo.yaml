@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-05-28T09:42:32.605-03:00
-  initializedAtString: 2021-05-28T09:42:32.605-03:00
+  lastUpdatedAtString: 2021-05-28T10:17:48.216-03:00
+  initializedAtString: 2021-05-28T10:17:48.216-03:00
   currentGitRemote:
     name: origin
     url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: ProtagTeste
+    tracking: origin/ProtagTeste
   currentConfigBranch:
-    name: main
+    name: ProtagTeste
     remote:
       name: origin
       url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
-    trackingBranch: main
+    trackingBranch: ProtagTeste
   currentConfigRemote:
     name: origin
     url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git

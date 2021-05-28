@@ -13,19 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-05-28T09:33:39.775-03:00
-  initializedAtString: 2021-05-28T09:09:20.296-03:00
+  lastUpdatedAtString: 2021-05-28T10:19:37.521-03:00
+  initializedAtString: 2021-05-28T10:19:37.508-03:00
   localBranches:
   - name: main
     tracking: origin/main
-  - name: Player-&-Camera
-    tracking: 
-  - name: Testebranch
-    tracking: origin/Testebranch
+  - name: ProtagTeste
+    tracking: origin/ProtagTeste
   remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   - name: origin/main
     tracking: '[None]'
-  - name: origin/Testebranch
+  - name: origin/ProtagTeste
     tracking: '[None]'
   remotes:
   - name: origin
@@ -38,39 +38,39 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - main
-    - Player-&-Camera
-    - Testebranch
+    - ProtagTeste
     values:
     - name: main
       remote:
         name: origin
         url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
       trackingBranch: main
-    - name: Player-&-Camera
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
-    - name: Testebranch
+    - name: ProtagTeste
       remote:
         name: origin
         url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
-      trackingBranch: Testebranch
+      trackingBranch: ProtagTeste
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - HEAD
       - main
-      - Testebranch
+      - ProtagTeste
     subKeyValues:
     - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
+        trackingBranch: 
       - name: main
         remote:
           name: origin
           url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
         trackingBranch: 
-      - name: Testebranch
+      - name: ProtagTeste
         remote:
           name: origin
           url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git

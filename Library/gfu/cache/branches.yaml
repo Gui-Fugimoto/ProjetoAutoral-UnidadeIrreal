@@ -13,17 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-05-26T10:08:28.879-03:00
-  initializedAtString: 2021-05-26T10:01:42.604-03:00
+  lastUpdatedAtString: 2021-05-28T09:33:39.775-03:00
+  initializedAtString: 2021-05-28T09:09:20.296-03:00
   localBranches:
   - name: main
     tracking: origin/main
   - name: Player-&-Camera
     tracking: 
   - name: Testebranch
-    tracking: 
+    tracking: origin/Testebranch
   remoteBranches:
   - name: origin/main
+    tracking: '[None]'
+  - name: origin/Testebranch
     tracking: '[None]'
   remotes:
   - name: origin
@@ -51,18 +53,24 @@ MonoBehaviour:
       trackingBranch: 
     - name: Testebranch
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
+      trackingBranch: Testebranch
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - main
+      - Testebranch
     subKeyValues:
     - Values:
       - name: main
+        remote:
+          name: origin
+          url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
+        trackingBranch: 
+      - name: Testebranch
         remote:
           name: origin
           url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git

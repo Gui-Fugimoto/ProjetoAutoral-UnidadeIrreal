@@ -13,9 +13,927 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-26T10:08:31.810-03:00
-  initializedAtString: 2021-05-26T10:01:39.510-03:00
+  lastUpdatedAtString: 2021-05-28T09:33:41.034-03:00
+  initializedAtString: 2021-05-28T09:09:45.123-03:00
   log:
+  - commitID: 8c5fe3b908508587a48259583d6cf0a78e0e2029
+    mergeA: 
+    mergeB: 
+    authorName: Gui-Fugimoto
+    authorEmail: guilherme.kfugimoto@gmail.com
+    commitEmail: guilherme.kfugimoto@gmail.com
+    commitName: Gui-Fugimoto
+    summary: TesteBranch
+    description: 
+    timeString: 2021-05-26T10:23:37.000-03:00
+    commitTimeString: 2021-05-26T10:23:37.000-03:00
+    changes:
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\09\096b2d9a4790a13433c6ffd2755be51a
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\09\096b2d9a4790a13433c6ffd2755be51a
+      projectPath: Library\Artifacts\09\096b2d9a4790a13433c6ffd2755be51a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\17\1747497063c2cb886abfbbabc8cef26e
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\17\1747497063c2cb886abfbbabc8cef26e
+      projectPath: Library\Artifacts\17\1747497063c2cb886abfbbabc8cef26e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\18\182be3c0714e63260a6dc6b182aeebc2
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\18\182be3c0714e63260a6dc6b182aeebc2
+      projectPath: Library\Artifacts\18\182be3c0714e63260a6dc6b182aeebc2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\25\25d2659c8fb182565ad420b3e8a7a82d
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\25\25d2659c8fb182565ad420b3e8a7a82d
+      projectPath: Library\Artifacts\25\25d2659c8fb182565ad420b3e8a7a82d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\2d\2ddc409980304f33097f0414ea04e094
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\2d\2ddc409980304f33097f0414ea04e094
+      projectPath: Library\Artifacts\2d\2ddc409980304f33097f0414ea04e094
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3a\3a2f26b8eb251860cd6354ed0efc3798
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\3a\3a2f26b8eb251860cd6354ed0efc3798
+      projectPath: Library\Artifacts\3a\3a2f26b8eb251860cd6354ed0efc3798
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3b\3b0b310d3d06bd8a9df9aed54c4f0175
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\3b\3b0b310d3d06bd8a9df9aed54c4f0175
+      projectPath: Library\Artifacts\3b\3b0b310d3d06bd8a9df9aed54c4f0175
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3b\3b9028c00bea9ca3513aa4b32d58245b
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\3b\3b9028c00bea9ca3513aa4b32d58245b
+      projectPath: Library\Artifacts\3b\3b9028c00bea9ca3513aa4b32d58245b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3e\3e5f0ba85d7b624ca5570977e456ce80
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\3e\3e5f0ba85d7b624ca5570977e456ce80
+      projectPath: Library\Artifacts\3e\3e5f0ba85d7b624ca5570977e456ce80
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\4c\4c028ea135b5693436f97cb4a78b2e4a
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\4c\4c028ea135b5693436f97cb4a78b2e4a
+      projectPath: Library\Artifacts\4c\4c028ea135b5693436f97cb4a78b2e4a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\52\520a292a680b3f99f1a0a82558794117
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\52\520a292a680b3f99f1a0a82558794117
+      projectPath: Library\Artifacts\52\520a292a680b3f99f1a0a82558794117
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\53\537282221796162e9acc043c69d1f2dc
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\53\537282221796162e9acc043c69d1f2dc
+      projectPath: Library\Artifacts\53\537282221796162e9acc043c69d1f2dc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\60\605667dce92e885fa1ea82886e6dc7d3
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\60\605667dce92e885fa1ea82886e6dc7d3
+      projectPath: Library\Artifacts\60\605667dce92e885fa1ea82886e6dc7d3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\72\725f8b0d8cc7b48420ce390510233c47
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\72\725f8b0d8cc7b48420ce390510233c47
+      projectPath: Library\Artifacts\72\725f8b0d8cc7b48420ce390510233c47
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\78\78b9c96067576eeaed972f63998ea730
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\78\78b9c96067576eeaed972f63998ea730
+      projectPath: Library\Artifacts\78\78b9c96067576eeaed972f63998ea730
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7a\7a35be3ef9e2fce6e9b3ed6b4fac4840
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\7a\7a35be3ef9e2fce6e9b3ed6b4fac4840
+      projectPath: Library\Artifacts\7a\7a35be3ef9e2fce6e9b3ed6b4fac4840
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7b\7b35a09caad84c316e13680c08076d55
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\7b\7b35a09caad84c316e13680c08076d55
+      projectPath: Library\Artifacts\7b\7b35a09caad84c316e13680c08076d55
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\80\80675208e3e514f6cdca184624c811a4
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\80\80675208e3e514f6cdca184624c811a4
+      projectPath: Library\Artifacts\80\80675208e3e514f6cdca184624c811a4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\80\80d24d05f100bc9125f7fb6bdc1b78f6
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\80\80d24d05f100bc9125f7fb6bdc1b78f6
+      projectPath: Library\Artifacts\80\80d24d05f100bc9125f7fb6bdc1b78f6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\82\825907c1b386dccaa3d44d5f3c1cfae0
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\82\825907c1b386dccaa3d44d5f3c1cfae0
+      projectPath: Library\Artifacts\82\825907c1b386dccaa3d44d5f3c1cfae0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a9\a9c3fba78145215ed443cd3e7351c344
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\a9\a9c3fba78145215ed443cd3e7351c344
+      projectPath: Library\Artifacts\a9\a9c3fba78145215ed443cd3e7351c344
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\aa\aa1bf47e174e7dc28d19b87d1af1b5aa
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\aa\aa1bf47e174e7dc28d19b87d1af1b5aa
+      projectPath: Library\Artifacts\aa\aa1bf47e174e7dc28d19b87d1af1b5aa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ac\ac37e35e7a0f0d25a625da4720b6c64f
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\ac\ac37e35e7a0f0d25a625da4720b6c64f
+      projectPath: Library\Artifacts\ac\ac37e35e7a0f0d25a625da4720b6c64f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b1\b1159103b97949a8a951871cd1dab276
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\b1\b1159103b97949a8a951871cd1dab276
+      projectPath: Library\Artifacts\b1\b1159103b97949a8a951871cd1dab276
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b6\b633d564e4424ff63de23f70610aa5a3
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\b6\b633d564e4424ff63de23f70610aa5a3
+      projectPath: Library\Artifacts\b6\b633d564e4424ff63de23f70610aa5a3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b9\b9b1a8278876d60a45e51c6cc9d694c1
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\b9\b9b1a8278876d60a45e51c6cc9d694c1
+      projectPath: Library\Artifacts\b9\b9b1a8278876d60a45e51c6cc9d694c1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c1\c1c181a4a736640eb4499f97fbafe5ed
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\c1\c1c181a4a736640eb4499f97fbafe5ed
+      projectPath: Library\Artifacts\c1\c1c181a4a736640eb4499f97fbafe5ed
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c4\c46daca772ce0493593c22782c406f1e
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\c4\c46daca772ce0493593c22782c406f1e
+      projectPath: Library\Artifacts\c4\c46daca772ce0493593c22782c406f1e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c5\c5a78c9f004dc2eff01104aa29e50a4c
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\c5\c5a78c9f004dc2eff01104aa29e50a4c
+      projectPath: Library\Artifacts\c5\c5a78c9f004dc2eff01104aa29e50a4c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ca\ca261bd9b5fb956255a5ce20abfe774e
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\ca\ca261bd9b5fb956255a5ce20abfe774e
+      projectPath: Library\Artifacts\ca\ca261bd9b5fb956255a5ce20abfe774e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ce\cef5df1bbd9eb9782427a9822de1728f
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\ce\cef5df1bbd9eb9782427a9822de1728f
+      projectPath: Library\Artifacts\ce\cef5df1bbd9eb9782427a9822de1728f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d0\d04ee83a0efc93f05363b8a32b8f1ecd
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\d0\d04ee83a0efc93f05363b8a32b8f1ecd
+      projectPath: Library\Artifacts\d0\d04ee83a0efc93f05363b8a32b8f1ecd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\de\de5ef6943a4def75a5bed551c0c7f7f6
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\de\de5ef6943a4def75a5bed551c0c7f7f6
+      projectPath: Library\Artifacts\de\de5ef6943a4def75a5bed551c0c7f7f6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e7\e7debb9dc8980ae4db11bf0b43957b80
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\e7\e7debb9dc8980ae4db11bf0b43957b80
+      projectPath: Library\Artifacts\e7\e7debb9dc8980ae4db11bf0b43957b80
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ea\ea4c0c92973b5319dac93a5c6e98ff1b
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\ea\ea4c0c92973b5319dac93a5c6e98ff1b
+      projectPath: Library\Artifacts\ea\ea4c0c92973b5319dac93a5c6e98ff1b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f0\f0b3c52c6e610a6eeff3e5582dbf1d9e
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\f0\f0b3c52c6e610a6eeff3e5582dbf1d9e
+      projectPath: Library\Artifacts\f0\f0b3c52c6e610a6eeff3e5582dbf1d9e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f2\f250c76ddef7cb7a0a0ffb5bf008fc48
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\f2\f250c76ddef7cb7a0a0ffb5bf008fc48
+      projectPath: Library\Artifacts\f2\f250c76ddef7cb7a0a0ffb5bf008fc48
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f8\f820b08e3663382776ba135e72895419
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\f8\f820b08e3663382776ba135e72895419
+      projectPath: Library\Artifacts\f8\f820b08e3663382776ba135e72895419
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f9\f9468e3873d2944e5acdff7963abb775
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\f9\f9468e3873d2944e5acdff7963abb775
+      projectPath: Library\Artifacts\f9\f9468e3873d2944e5acdff7963abb775
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\fa\fa54504dab26fcb7598a89b91ed0f6b6
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\fa\fa54504dab26fcb7598a89b91ed0f6b6
+      projectPath: Library\Artifacts\fa\fa54504dab26fcb7598a89b91ed0f6b6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\fe\fe388e19e3a051aff5ce33e66676e07e
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\fe\fe388e19e3a051aff5ce33e66676e07e
+      projectPath: Library\Artifacts\fe\fe388e19e3a051aff5ce33e66676e07e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 26ad16b6f621ad75f56c3302cb425ee0eddcacdb
     mergeA: 
     mergeB: 

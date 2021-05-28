@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-05-28T09:42:32.605-03:00
-  initializedAtString: 2021-05-28T09:42:32.605-03:00
+  lastUpdatedAtString: 2021-05-28T10:05:24.434-03:00
+  initializedAtString: 2021-05-28T10:05:24.434-03:00
   currentGitRemote:
     name: origin
     url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git

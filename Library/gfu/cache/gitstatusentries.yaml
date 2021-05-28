@@ -1,0 +1,616 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-05-28T09:33:41.143-03:00
+  initializedAtString: 2021-05-28T09:09:19.821-03:00
+  entries:
+  - path: Assets\Assets.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Assets.meta
+    projectPath: Assets\Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Assets\2D Sprites.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Assets\2D
+      Sprites.meta
+    projectPath: Assets\Assets\2D Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Assets\3D Objects.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Assets\3D
+      Objects.meta
+    projectPath: Assets\Assets\3D Objects.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Assets\Texturas.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Assets\Texturas.meta
+    projectPath: Assets\Assets\Texturas.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Assets\Texturas\Graminhateste.png
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Assets\Texturas\Graminhateste.png
+    projectPath: Assets\Assets\Texturas\Graminhateste.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Assets\Texturas\Graminhateste.png.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Assets\Texturas\Graminhateste.png.meta
+    projectPath: Assets\Assets\Texturas\Graminhateste.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Assets\Texturas\NewLayer.terrainlayer
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Assets\Texturas\NewLayer.terrainlayer
+    projectPath: Assets\Assets\Texturas\NewLayer.terrainlayer
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Assets\Texturas\NewLayer.terrainlayer.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Assets\Texturas\NewLayer.terrainlayer.meta
+    projectPath: Assets\Assets\Texturas\NewLayer.terrainlayer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Terrain.asset
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\New
+      Terrain.asset
+    projectPath: Assets\New Terrain.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\New Terrain.asset.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\New
+      Terrain.asset.meta
+    projectPath: Assets\New Terrain.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts.meta
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\08\08c7a5a93653c2cd59fa17fd12e8146d
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\08\08c7a5a93653c2cd59fa17fd12e8146d
+    projectPath: Library\Artifacts\08\08c7a5a93653c2cd59fa17fd12e8146d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0f\0f7458d4f606619e9fa8fb3e8ce5f2b6
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\0f\0f7458d4f606619e9fa8fb3e8ce5f2b6
+    projectPath: Library\Artifacts\0f\0f7458d4f606619e9fa8fb3e8ce5f2b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\223dc8e1dd0c5ed16dad90b0ab32bf60
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\22\223dc8e1dd0c5ed16dad90b0ab32bf60
+    projectPath: Library\Artifacts\22\223dc8e1dd0c5ed16dad90b0ab32bf60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\227f65cafb0e0fb05f8c380e4b9ce57f
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\22\227f65cafb0e0fb05f8c380e4b9ce57f
+    projectPath: Library\Artifacts\22\227f65cafb0e0fb05f8c380e4b9ce57f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\28\28d63214662ee23ddd53b6e15c908a32
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\28\28d63214662ee23ddd53b6e15c908a32
+    projectPath: Library\Artifacts\28\28d63214662ee23ddd53b6e15c908a32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\305206c8fb194007a559f3a6a5094e20
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\30\305206c8fb194007a559f3a6a5094e20
+    projectPath: Library\Artifacts\30\305206c8fb194007a559f3a6a5094e20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\40\4002a87171fb8128aca2ff158440efaf
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\40\4002a87171fb8128aca2ff158440efaf
+    projectPath: Library\Artifacts\40\4002a87171fb8128aca2ff158440efaf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    projectPath: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6e\6e5a148a57cd2df4e423418bbc883135
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\6e\6e5a148a57cd2df4e423418bbc883135
+    projectPath: Library\Artifacts\6e\6e5a148a57cd2df4e423418bbc883135
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\725f8b0d8cc7b48420ce390510233c47
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\72\725f8b0d8cc7b48420ce390510233c47
+    projectPath: Library\Artifacts\72\725f8b0d8cc7b48420ce390510233c47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7a\7ac10594bb7a5643c8891f8420eaf23b
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\7a\7ac10594bb7a5643c8891f8420eaf23b
+    projectPath: Library\Artifacts\7a\7ac10594bb7a5643c8891f8420eaf23b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7dbfa549e2c00a7895843d46d51e2f4a
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\7d\7dbfa549e2c00a7895843d46d51e2f4a
+    projectPath: Library\Artifacts\7d\7dbfa549e2c00a7895843d46d51e2f4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8f\8f0d5ed3ef3ea59327432e0f2276c164
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\8f\8f0d5ed3ef3ea59327432e0f2276c164
+    projectPath: Library\Artifacts\8f\8f0d5ed3ef3ea59327432e0f2276c164
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b29737f689c57deb32393ca30029a00a
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\b2\b29737f689c57deb32393ca30029a00a
+    projectPath: Library\Artifacts\b2\b29737f689c57deb32393ca30029a00a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b3\b3669ad0d1c22f92c75eaf09416baa9f
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\b3\b3669ad0d1c22f92c75eaf09416baa9f
+    projectPath: Library\Artifacts\b3\b3669ad0d1c22f92c75eaf09416baa9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b5\b5ed5c9968f7e06ce1e24a32181a11bf
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\b5\b5ed5c9968f7e06ce1e24a32181a11bf
+    projectPath: Library\Artifacts\b5\b5ed5c9968f7e06ce1e24a32181a11bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    projectPath: Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e5\e54faaba698e84bc877a0bad58b8a067
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\e5\e54faaba698e84bc877a0bad58b8a067
+    projectPath: Library\Artifacts\e5\e54faaba698e84bc877a0bad58b8a067
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    projectPath: Library\Artifacts\ea\ea0cccf2f8316addf8cb573d9eb2bf4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\ea4c0c92973b5319dac93a5c6e98ff1b
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\ea\ea4c0c92973b5319dac93a5c6e98ff1b
+    projectPath: Library\Artifacts\ea\ea4c0c92973b5319dac93a5c6e98ff1b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ee\ee378425495a75a298d473e1dee1f16e
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\Artifacts\ee\ee378425495a75a298d473e1dee1f16e
+    projectPath: Library\Artifacts\ee\ee378425495a75a298d473e1dee1f16e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
+    projectPath: Library\ShaderCache\0\049e4dfa9bf433b8729d896e7ea3a51e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0b5fbf8f316051110fe1b67b0ec9f873.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\0\0b5fbf8f316051110fe1b67b0ec9f873.bin
+    projectPath: Library\ShaderCache\0\0b5fbf8f316051110fe1b67b0ec9f873.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0fafb681d78d7b0c0210249c2d3ffea7.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\0\0fafb681d78d7b0c0210249c2d3ffea7.bin
+    projectPath: Library\ShaderCache\0\0fafb681d78d7b0c0210249c2d3ffea7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
+    projectPath: Library\ShaderCache\1\1069bb4bfbdbbea32baca8d43490a0a2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
+    projectPath: Library\ShaderCache\1\10f79ce88b4f29e5d9de023704f854e0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\13fbeac42167cc02bd6fc0801e0926e8.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\1\13fbeac42167cc02bd6fc0801e0926e8.bin
+    projectPath: Library\ShaderCache\1\13fbeac42167cc02bd6fc0801e0926e8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
+    projectPath: Library\ShaderCache\2\226afd46fa86227b27d538473422eedf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3f3cc9a3ec9577fd61c990a3d4d3110a.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\3\3f3cc9a3ec9577fd61c990a3d4d3110a.bin
+    projectPath: Library\ShaderCache\3\3f3cc9a3ec9577fd61c990a3d4d3110a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    projectPath: Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\43ba96ceab4c8b7afcf26ebbb740c547.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\4\43ba96ceab4c8b7afcf26ebbb740c547.bin
+    projectPath: Library\ShaderCache\4\43ba96ceab4c8b7afcf26ebbb740c547.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4a5aee573a6528f6cefd7438ce6b07f8.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\4\4a5aee573a6528f6cefd7438ce6b07f8.bin
+    projectPath: Library\ShaderCache\4\4a5aee573a6528f6cefd7438ce6b07f8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\52e72b29150222f1659d289ac66d08c1.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\5\52e72b29150222f1659d289ac66d08c1.bin
+    projectPath: Library\ShaderCache\5\52e72b29150222f1659d289ac66d08c1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    projectPath: Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\595b7711f9d23f75c48c749f50ddbe46.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\5\595b7711f9d23f75c48c749f50ddbe46.bin
+    projectPath: Library\ShaderCache\5\595b7711f9d23f75c48c749f50ddbe46.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
+    projectPath: Library\ShaderCache\5\5f7f3b4e4ef3392d0ebf72aed57f469f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\648b17594cd8a082ee937f03c3f24ba5.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\6\648b17594cd8a082ee937f03c3f24ba5.bin
+    projectPath: Library\ShaderCache\6\648b17594cd8a082ee937f03c3f24ba5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
+    projectPath: Library\ShaderCache\6\6c806dc5a693fb5c34bb2db755618e41.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6e3fae2e1a42799d52e208c18f3b28b1.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\6\6e3fae2e1a42799d52e208c18f3b28b1.bin
+    projectPath: Library\ShaderCache\6\6e3fae2e1a42799d52e208c18f3b28b1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6ebe52c00455b489cdf371b4eb377029.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\6\6ebe52c00455b489cdf371b4eb377029.bin
+    projectPath: Library\ShaderCache\6\6ebe52c00455b489cdf371b4eb377029.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
+    projectPath: Library\ShaderCache\7\77b7d422eb3140d1fa1047f825277321.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7d2404aa35c5960ab305565df0d2254a.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\7\7d2404aa35c5960ab305565df0d2254a.bin
+    projectPath: Library\ShaderCache\7\7d2404aa35c5960ab305565df0d2254a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8259cf68ccec244f71651bd9139d4da2.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\8\8259cf68ccec244f71651bd9139d4da2.bin
+    projectPath: Library\ShaderCache\8\8259cf68ccec244f71651bd9139d4da2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
+    projectPath: Library\ShaderCache\8\8fa0265fd7a98de76318a0b0cc68411d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9396b98bfb8ca2a7579884a128ac72ed.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\9\9396b98bfb8ca2a7579884a128ac72ed.bin
+    projectPath: Library\ShaderCache\9\9396b98bfb8ca2a7579884a128ac72ed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9cc9219b6f3753c1b8f05169c9742096.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\9\9cc9219b6f3753c1b8f05169c9742096.bin
+    projectPath: Library\ShaderCache\9\9cc9219b6f3753c1b8f05169c9742096.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a56fcf274b6e6b2a8e5eec05526d0d6e.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\a\a56fcf274b6e6b2a8e5eec05526d0d6e.bin
+    projectPath: Library\ShaderCache\a\a56fcf274b6e6b2a8e5eec05526d0d6e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a79fd58ab340a2815124a98c99a642e8.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\a\a79fd58ab340a2815124a98c99a642e8.bin
+    projectPath: Library\ShaderCache\a\a79fd58ab340a2815124a98c99a642e8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aa87c39b5e5907c58d027fda31b13101.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\a\aa87c39b5e5907c58d027fda31b13101.bin
+    projectPath: Library\ShaderCache\a\aa87c39b5e5907c58d027fda31b13101.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b7fd57a664f8d3a390b52186d123bd5a.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\b\b7fd57a664f8d3a390b52186d123bd5a.bin
+    projectPath: Library\ShaderCache\b\b7fd57a664f8d3a390b52186d123bd5a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b99cbf2f806a90fa969c1f9a2a30f6c8.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\b\b99cbf2f806a90fa969c1f9a2a30f6c8.bin
+    projectPath: Library\ShaderCache\b\b99cbf2f806a90fa969c1f9a2a30f6c8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bb06560e97b7a676ac8ace57826bf69f.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\b\bb06560e97b7a676ac8ace57826bf69f.bin
+    projectPath: Library\ShaderCache\b\bb06560e97b7a676ac8ace57826bf69f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c84d4016ec3a5191f3c3ebb60454518d.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\c\c84d4016ec3a5191f3c3ebb60454518d.bin
+    projectPath: Library\ShaderCache\c\c84d4016ec3a5191f3c3ebb60454518d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c9e7beaca5eab76412300a43fa7871e4.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\c\c9e7beaca5eab76412300a43fa7871e4.bin
+    projectPath: Library\ShaderCache\c\c9e7beaca5eab76412300a43fa7871e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d902da308d51752861b02bb4768a2fd7.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\d\d902da308d51752861b02bb4768a2fd7.bin
+    projectPath: Library\ShaderCache\d\d902da308d51752861b02bb4768a2fd7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d980125923685c247b2fdecdc293a999.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\d\d980125923685c247b2fdecdc293a999.bin
+    projectPath: Library\ShaderCache\d\d980125923685c247b2fdecdc293a999.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dbea6f2006a3064626ba639cdd351352.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\d\dbea6f2006a3064626ba639cdd351352.bin
+    projectPath: Library\ShaderCache\d\dbea6f2006a3064626ba639cdd351352.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
+    projectPath: Library\ShaderCache\d\de3ec336454a1a40a74d7503bc7c8f6a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dfd6e1e4599cbbc96bc02fb4e82c588b.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\d\dfd6e1e4599cbbc96bc02fb4e82c588b.bin
+    projectPath: Library\ShaderCache\d\dfd6e1e4599cbbc96bc02fb4e82c588b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
+    projectPath: Library\ShaderCache\e\e80cbfea9edc52d26fa88214fce6b515.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\eab45afb706676617627e52b19b49763.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\e\eab45afb706676617627e52b19b49763.bin
+    projectPath: Library\ShaderCache\e\eab45afb706676617627e52b19b49763.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ecafb7e68d4efa7c9c457b20dcae1c14.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\e\ecafb7e68d4efa7c9c457b20dcae1c14.bin
+    projectPath: Library\ShaderCache\e\ecafb7e68d4efa7c9c457b20dcae1c14.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f4d6bd1b4562dd6d859b6157145c28e3.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\f\f4d6bd1b4562dd6d859b6157145c28e3.bin
+    projectPath: Library\ShaderCache\f\f4d6bd1b4562dd6d859b6157145c28e3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fcad12f593471633144858d640586b45.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\f\fcad12f593471633144858d640586b45.bin
+    projectPath: Library\ShaderCache\f\fcad12f593471633144858d640586b45.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\ff32c287b14f9febedcf952d092e4654.bin
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\ShaderCache\f\ff32c287b14f9febedcf952d092e4654.bin
+    projectPath: Library\ShaderCache\f\ff32c287b14f9febedcf952d092e4654.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\d69a67-mainStage.json
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\StateCache\SceneView\d69a67-mainStage.json
+    projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\TerrainTools\PaintTexture
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Library\TerrainTools\PaintTexture
+    projectPath: Library\TerrainTools\PaintTexture
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\guifu\Desktop\ProjetoAutoral-UnidadeIrreal\ProjetoAutoral-UnidadeIrreal\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

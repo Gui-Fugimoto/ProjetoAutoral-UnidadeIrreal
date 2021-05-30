@@ -13,9 +13,147 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-28T10:56:40.013-03:00
-  initializedAtString: 2021-05-28T10:56:39.551-03:00
+  lastUpdatedAtString: 2021-05-30T00:05:36.705-03:00
+  initializedAtString: 2021-05-29T18:27:35.045-03:00
   log:
+  - commitID: 8bd1bb2834688a4a96e6f1b041ec7697022deeaa
+    mergeA: 
+    mergeB: 
+    authorName: Gui-Fugimoto
+    authorEmail: guilherme.kfugimoto@gmail.com
+    commitEmail: guilherme.kfugimoto@gmail.com
+    commitName: Gui-Fugimoto
+    summary: Committeste
+    description: Add Prefab folder
+    timeString: 2021-05-28T10:58:01.000-03:00
+    commitTimeString: 2021-05-28T10:58:01.000-03:00
+    changes:
+    - path: Assets\Prefabulous.meta
+      fullPath: C:\Users\guifu\Desktop\teste2\Assets\Prefabulous.meta
+      projectPath: Assets\Prefabulous.meta
+      originalPath: Assets\Assets\3D Objects.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Prefabulous\Cube.prefab
+      fullPath: C:\Users\guifu\Desktop\teste2\Assets\Prefabulous\Cube.prefab
+      projectPath: Assets\Prefabulous\Cube.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabulous\Cube.prefab.meta
+      fullPath: C:\Users\guifu\Desktop\teste2\Assets\Prefabulous\Cube.prefab.meta
+      projectPath: Assets\Prefabulous\Cube.prefab.meta
+      originalPath: Assets\Prefabs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\guifu\Desktop\teste2\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\3f\3f00c3aed0abf6dc249d8c999f92c4c0
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\Artifacts\3f\3f00c3aed0abf6dc249d8c999f92c4c0
+      projectPath: Library\Artifacts\3f\3f00c3aed0abf6dc249d8c999f92c4c0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\45\45d6071170512ab35407bc74824ba507
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\Artifacts\45\45d6071170512ab35407bc74824ba507
+      projectPath: Library\Artifacts\45\45d6071170512ab35407bc74824ba507
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\89\898f4a0bdfd17c1c4c24c4acc4eb3cf2
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\Artifacts\89\898f4a0bdfd17c1c4c24c4acc4eb3cf2
+      projectPath: Library\Artifacts\89\898f4a0bdfd17c1c4c24c4acc4eb3cf2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\94\94d643f3616cd6fd20a3567ed48cd779
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\Artifacts\94\94d643f3616cd6fd20a3567ed48cd779
+      projectPath: Library\Artifacts\94\94d643f3616cd6fd20a3567ed48cd779
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\a7\a769f48961817b9889308da45fc17118
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\Artifacts\a7\a769f48961817b9889308da45fc17118
+      projectPath: Library\Artifacts\a7\a769f48961817b9889308da45fc17118
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB-lock
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\SourceAssetDB-lock
+      projectPath: Library\SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\guifu\Desktop\teste2\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: c430fce65e768a4ef29332c0110e00f746ca34c3
     mergeA: 
     mergeB: 

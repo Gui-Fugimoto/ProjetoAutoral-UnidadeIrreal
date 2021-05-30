@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-05-28T10:56:37.726-03:00
-  initializedAtString: 2021-05-28T10:56:37.672-03:00
+  lastUpdatedAtString: 2021-05-30T00:05:35.449-03:00
+  initializedAtString: 2021-05-29T16:37:06.179-03:00
   currentGitRemote:
     name: origin
     url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
@@ -24,10 +24,10 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: Committeste312031231
+    name: PlayerWalk
     tracking: 
   currentConfigBranch:
-    name: Committeste312031231
+    name: PlayerWalk
     remote:
       name: 
       url: 

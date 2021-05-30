@@ -13,15 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-05-28T10:56:37.704-03:00
-  initializedAtString: 2021-05-28T10:56:37.685-03:00
+  lastUpdatedAtString: 2021-05-30T00:05:35.443-03:00
+  initializedAtString: 2021-05-29T18:27:33.490-03:00
   localBranches:
   - name: Committeste312031231
-    tracking: 
+    tracking: origin/Committeste312031231
   - name: main
     tracking: origin/main
+  - name: PlayerWalk
+    tracking: 
   remoteBranches:
+  - name: origin/Committeste312031231
+    tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -35,26 +41,44 @@ MonoBehaviour:
     keys:
     - Committeste312031231
     - main
+    - PlayerWalk
     values:
     - name: Committeste312031231
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
+      trackingBranch: Committeste312031231
     - name: main
       remote:
         name: origin
         url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
       trackingBranch: main
+    - name: PlayerWalk
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - Committeste312031231
       - HEAD
+      - main
     subKeyValues:
     - Values:
+      - name: Committeste312031231
+        remote:
+          name: origin
+          url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
+        trackingBranch: 
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/Gui-Fugimoto/ProjetoAutoral-UnidadeIrreal.git
